@@ -9,6 +9,8 @@ This repository documents my **hands-on learning and practical usage of Subfinde
 
 The goal of this workflow is to **expand the attack surface** by identifying hidden, forgotten, or misconfigured subdomains that may expose security vulnerabilities.
 
+<img width="1920" height="989" alt="Screenshot at 2025-12-29 18-19-55" src="https://github.com/user-attachments/assets/c871d4be-fee6-4fef-9ad8-bdeb7b785716" />
+
 ---
 
 ## 🧠 Why Subdomain Enumeration Matters
